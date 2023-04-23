@@ -191,7 +191,7 @@ public class LoginForm extends javax.swing.JFrame {
             
             if(rs.next())
             {
-                JOptionPane.showMessageDialog(null,"logged in succesfully");
+                JOptionPane.showMessageDialog(null,"logged in succesfully!");
             }
             else
             {
